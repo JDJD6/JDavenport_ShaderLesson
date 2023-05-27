@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RiverWaterMat
+  m_Shader: {fileID: -6465566751694194690, guid: 47b7ec5303bbb4546a74c5893a903c48, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_010fcbba248446de858471bbd5faa5fa: 0.1
+    - Vector1_12dd4d09c4f64d80b1c6ffcdd4061ee3: 9
+    - Vector1_1f2465d0b87d41b2ab918d2851e7a00c: 0.43
+    - Vector1_446bc077e10440a7a2f104b15a423ef6: 0.5
+    - Vector1_49f1549037fb4d7188a924c80cde6d8b: 4
+    - Vector1_71b98cf72fb14ce6b525e0e24de9a600: 0.6
+    - Vector1_a87c139d41d547b1adcb2dcb883390bf: 1.5
+    - Vector1_b13201b95b4948cb8fb8aaac9570d290: 0.7
+    - Vector1_ebe38d16cee44e46a57e17e610bc8dfa: 0.28
+    - Vector1_ebf96d44e6b040569c9fab27f1ffcdda: 4
+    m_Colors:
+    - Color_3b902279778d43ecac4506b7d2d28d77: {r: 0, g: 0.62492293, b: 0.6509434, a: 0}
+    - Color_4fb2e7fef503450bae3acedf47c320a0: {r: 0, g: 0.6953941, b: 0.83137256, a: 0}
+    - Color_b5feafb2e9144673bae6aa6e708881f6: {r: 0.10980392, g: 0.5033627, b: 0.54901963, a: 0}
+    - Color_d3e97cce08fb4a989e46dc95fc7a0d83: {r: 0.60784316, g: 0.9254902, b: 0.94509804, a: 0}
+    - Vector2_2be0ef377bb74c2993a5f4620b51b5b0: {r: 0.5, g: 0, b: 0, a: 0}
+    - Vector2_cf73f9bcfdf74a9fb3f7b1b8eb2a445d: {r: 0.53, g: 0, b: 0, a: 0}
+    - Water_HighlightColor: {r: 0, g: 0.6839597, b: 0.8313726, a: 0}
+  m_BuildTextureStacks: []
